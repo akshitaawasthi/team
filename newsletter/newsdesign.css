@@ -116,3 +116,21 @@ img {
 .demo:hover {
   opacity: 1;
 }
+ @media screen and (max-width: 768px)
+ {
+.view{
+  width: 50vw;
+  height: 10vh;
+  background: linear-gradient(45deg,#FF5733,#FFC300 );
+  margin: 0px 20px;
+  border-radius: 50px;
+  text-decoration: none;
+  color: white;
+  font-size: 120%;
+  text-transform: uppercase;
+  position: relative;
+  overflow: hidden;
+  text-align: center;
+
+}
+ }
